@@ -1,0 +1,198 @@
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1328.jpg 481,352,605,455,1 512,410,546,432,2 503,390,560,406,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/150.jpg 669,398,713,443,0
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1182.jpg 695,348,844,518,1 734,447,785,483,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/5.jpg 287,352,431,462,0 305,414,343,444,2 388,414,407,438,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1703.jpg 571,349,637,430,1 583,395,607,411,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/170.jpg 728,355,775,420,0 741,380,769,391,4 741,393,765,409,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1766.jpg 556,351,608,423,1 591,395,609,411,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/237.jpg 543,352,640,439,0 576,401,609,420,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1962.jpg 753,348,1002,571,1 846,481,925,537,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1966.jpg 1,343,242,650,1 1,465,182,504,4 25,528,155,605,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1942.jpg 656,359,734,418,1 686,390,708,405,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/901.jpg 747,456,899,488,4 792,502,878,570,2 643,486,675,550,2 615,340,955,627,0
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1646.jpg 528,349,664,510,1 559,438,611,474,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1235.jpg 276,354,446,489,1 317,435,368,468,3 418,429,436,454,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1.jpg 287,354,367,466,0 285,418,317,447,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/637.jpg 825,350,950,463,0 861,417,907,443,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1666.jpg 568,351,677,436,1 623,397,652,418,3 568,398,589,417,3 570,380,600,391,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/398.jpg 595,352,757,486,0 643,429,694,463,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/772.jpg 753,350,899,490,0 787,407,864,420,4 799,430,849,460,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1900.jpg 315,353,494,480,1 419,426,460,458,3 338,427,363,456,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1317.jpg 355,348,586,515,1 516,439,551,472,2 398,442,446,478,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1871.jpg 710,356,832,449,1 745,410,776,430,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/684.jpg 543,363,590,423,0 566,392,590,411,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1696.jpg 591,349,642,411,1 595,386,617,400,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/697.jpg 699,349,778,412,0 723,385,747,400,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1939.jpg 510,356,547,416,1 521,391,531,405,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1894.jpg 470,411,500,435,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1154.jpg 752,351,951,533,1 822,459,885,502,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1878.jpg 707,393,723,408,3 706,380,723,388,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/255.jpg 769,353,837,440,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/523.jpg 371,353,539,470,0 453,423,493,451,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1649.jpg 526,341,761,515,1 665,440,712,474,3 560,444,591,476,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/614.jpg 654,353,716,440,0 687,403,711,424,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1015.jpg 690,353,797,472,1 704,422,748,450,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/179.jpg 739,357,775,418,0 755,391,775,409,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/907.jpg 923,443,956,481,2 925,412,989,433,4 902,343,1059,522,0
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/330.jpg 397,346,505,435,0 424,395,454,415,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1370.jpg 953,345,1242,548,1 1023,455,1090,503,3 1184,459,1221,506,3 1157,423,1210,446,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1927.jpg 484,358,548,448,1 526,410,546,432,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/126.jpg 118,348,393,596,0 203,491,295,549,3 176,443,332,474,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/61.jpg 916,346,1184,548,0 962,421,1063,448,4 971,461,1037,501,2 1122,461,1155,505,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1441.jpg 416,440,442,480,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/590.jpg 614,372,689,437,0 639,409,662,426,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1902.jpg 314,354,499,482,1 411,428,451,456,3 329,426,351,455,3 333,402,370,417,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1253.jpg 555,353,629,416,1 581,389,605,403,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/470.jpg 870,349,1109,554,0 946,476,1024,528,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1589.jpg 775,349,893,460,1 779,409,814,436,2 859,411,877,434,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/357.jpg 677,354,729,412,0 676,388,695,404,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1057.jpg 1027,348,1207,469,1 1108,420,1153,446,2 1045,392,1074,407,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1030.jpg 884,349,1112,522,1 984,448,1044,488,2 887,409,930,430,4 884,435,906,474,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/96.jpg 553,356,605,437,0 585,404,605,427,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1618.jpg 588,354,648,419,1 607,392,631,406,3 601,378,635,387,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1099.jpg 797,351,1006,503,1 854,437,909,474,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1250.jpg 511,351,599,417,1 521,389,540,403,2 567,389,584,402,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1280.jpg 741,355,781,415,1 765,392,781,406,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/740.jpg 604,354,686,418,0 645,389,666,404,2 601,391,620,404,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/187.jpg 699,354,775,432,0 710,382,752,394,4 714,398,745,415,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/920.jpg 762,421,817,453,2 723,346,839,483,0
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/218.jpg 595,342,887,582,0 732,491,816,541,3 620,478,648,523,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1284.jpg 748,356,779,420,1
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/447.jpg 763,349,856,444,0 776,404,809,426,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/766.jpg 704,353,833,474,0 747,425,790,450,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1082.jpg 669,351,818,475,1 719,423,763,452,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1854.jpg 872,354,1086,513,1 957,445,1016,481,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/564.jpg 853,351,901,415,0 874,391,901,404,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/145.jpg 529,355,589,443,0 569,407,589,431,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1218.jpg 1057,350,1252,473,1 1104,419,1148,450,3 1210,424,1233,452,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1829.jpg 794,357,872,431,1 817,399,840,415,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/802.jpg 323,347,532,536,0 373,425,485,444,4 392,456,457,499,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1243.jpg 192,349,329,539,1 222,459,280,500,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1531.jpg 272,340,387,451,1 314,404,357,430,2 301,385,369,399,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1304.jpg 886,348,1035,483,1 922,403,1001,418,4 938,426,990,455,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1602.jpg 616,353,706,427,1 638,395,660,412,3 691,394,705,411,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1734.jpg 814,350,1108,561,1 943,473,1018,517,3 824,458,847,505,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1735.jpg 808,348,1087,566,1 1026,470,1057,514,3 865,469,935,524,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/965.jpg 264,354,469,496,1 290,433,327,462,2 389,432,431,462,2 290,408,346,422,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1051.jpg 850,348,1069,497,1 867,427,886,458,2 952,435,1008,469,2 869,401,911,421,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/82.jpg 477,351,569,419,0 531,374,559,388,4 538,390,558,403,3 493,390,513,406,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1773.jpg 744,344,980,571,1 820,475,899,533,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/822.jpg 547,352,609,439,0 572,404,604,422,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/274.jpg 763,352,835,430,0 783,397,814,415,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/205.jpg 149,354,378,525,0 217,455,282,491,3 326,418,360,440,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1695.jpg 590,349,641,412,1 614,386,629,400,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1415.jpg 428,344,595,468,1 532,418,571,446,3 452,418,482,446,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1698.jpg 590,350,655,415,1 624,388,642,402,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/552.jpg 99,340,363,512,0 275,442,318,475,3 148,448,193,489,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1377.jpg 731,347,893,497,1 776,434,829,467,3 764,405,847,425,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/176.jpg 733,355,773,418,0 752,391,776,409,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1297.jpg 880,350,960,456,1 892,414,927,435,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/563.jpg 862,352,898,414,0 881,388,897,403,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1474.jpg 751,346,834,432,1 785,393,814,414,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1430.jpg 439,350,621,492,1 519,432,566,464,3 447,434,464,459,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1595.jpg 1084,351,1242,484,1 1128,429,1178,460,3 666,352,707,415,1
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/528.jpg 296,351,424,476,0 318,427,376,457,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1856.jpg 736,354,958,512,1 903,444,935,476,3 786,439,832,475,3 882,413,932,431,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1739.jpg 619,350,827,516,1 792,444,819,481,3 669,442,724,482,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1549.jpg 644,348,809,492,1 713,429,764,464,2 695,402,777,421,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1791.jpg 454,360,505,446,1 455,408,483,428,3 455,389,486,398,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1961.jpg 756,350,942,523,1 819,454,879,498,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/123.jpg 668,345,957,624,0 756,516,851,572,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/9.jpg 331,352,501,468,0 427,396,479,408,4 444,417,475,441,2 361,419,395,441,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1910.jpg 495,354,674,496,1 560,436,612,472,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1682.jpg 658,351,734,416,1 680,389,704,404,3 674,376,713,384,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/252.jpg 753,352,830,444,0 767,400,789,420,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1528.jpg 253,338,387,452,1 346,405,382,431,2 269,405,291,429,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1785.jpg 456,342,583,519,1 475,448,535,487,3 455,415,548,435,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/117.jpg 976,350,1115,520,0 1005,444,1036,479,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1831.jpg 796,360,871,430,1 814,399,838,417,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/376.jpg 386,432,499,507,0 411,447,460,479,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1137.jpg 272,345,502,567,1 427,463,473,509,2 271,464,323,528,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/723.jpg 674,357,763,420,0 712,394,738,408,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/268.jpg 781,354,833,414,0 799,387,823,404,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/859.jpg 678,355,749,418,0 700,392,723,406,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1692.jpg 590,350,640,412,1 621,387,631,399,3 615,374,630,380,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1521.jpg 286,338,388,436,1 357,394,387,416,2 293,394,312,413,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1356.jpg 407,350,479,507,1
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1491.jpg 567,345,648,414,1 605,385,629,401,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1596.jpg 670,355,705,415,1
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/702.jpg 698,347,748,412,0
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/698.jpg 698,349,786,417,0 746,372,773,382,2 707,386,727,400,2 756,386,774,400,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1140.jpg 532,338,891,623,1 609,492,686,557,2 804,494,856,559,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1659.jpg 578,346,692,459,1 616,412,655,438,3 604,390,667,405,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1700.jpg 596,350,677,419,1 631,391,656,406,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/310.jpg 37,333,245,530,0 112,449,179,486,3 84,414,203,433,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/731.jpg 601,354,673,417,0 621,391,645,404,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/227.jpg 534,350,614,412,0 556,382,584,400,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1455.jpg 747,345,1062,648,1 856,507,959,585,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1315.jpg 358,346,573,509,1 427,441,482,480,2 525,410,557,428,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/232.jpg 540,350,605,413,0 557,385,578,399,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/569.jpg 803,349,899,426,0 831,393,862,410,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/671.jpg 453,345,589,455,0 467,385,500,399,4 533,410,571,432,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1702.jpg 571,349,675,425,1 582,395,605,411,3 637,394,655,408,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1398.jpg 674,347,841,526,1 726,451,784,494,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1080.jpg 565,350,729,472,1 662,420,698,446,2 589,420,614,444,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/131.jpg 177,354,373,495,0 247,440,304,472,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1438.jpg 417,354,609,502,1 510,435,559,469,3 419,438,444,469,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1157.jpg 738,342,1057,600,1 827,483,920,542,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/813.jpg 438,349,602,465,0 470,420,504,443,2 552,420,581,443,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/934.jpg
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1324.jpg 436,357,562,482,1 479,429,527,457,2 464,408,535,421,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1001.jpg 930,353,1108,484,1 951,424,985,451,2 1044,426,1083,454,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1714.jpg 287,346,458,466,1 325,417,368,446,3 419,414,438,438,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/537.jpg
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/323.jpg 397,346,497,431,0 446,395,470,413,3 392,378,420,389,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1609.jpg 616,350,706,428,1 638,395,663,412,3 634,380,674,391,4 693,396,703,410,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1660.jpg 585,347,690,447,1 618,407,655,429,3 608,387,665,399,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1161.jpg 284,352,575,585,1 403,486,487,536,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/948.jpg 335,420,379,458,2 429,424,466,452,2 333,403,400,417,4 307,343,491,481,0
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/606.jpg 611,354,699,428,0 642,396,673,413,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1833.jpg 849,399,872,414,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1401.jpg 597,347,840,528,1 736,452,789,490,3 621,453,659,493,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1648.jpg 546,345,748,511,1 621,441,675,479,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1644.jpg 559,347,706,487,1 608,431,655,463,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/206.jpg 188,345,403,509,0 266,447,331,481,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/980.jpg 277,346,631,606,1 354,495,431,558,2 545,487,601,548,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/247.jpg 889,347,937,439,0
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/40.jpg 525,346,873,611,0 561,441,633,476,4 711,502,790,554,2 561,484,594,541,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1238.jpg 280,356,461,490,1 361,430,410,464,3 294,408,324,421,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/107.jpg 834,353,993,467,0 916,422,959,448,3 850,419,873,441,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1843.jpg 978,357,1092,461,1 1018,421,1056,444,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/605.jpg 607,353,688,424,0 635,391,664,408,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1951.jpg 663,356,732,420,1 688,394,712,409,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/404.jpg 681,346,860,515,0 732,449,794,490,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/382.jpg 403,351,575,496,0 485,440,536,473,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1482.jpg 670,348,731,423,1 682,390,709,407,2 674,378,715,386,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/593.jpg 607,349,697,408,0 657,384,677,398,2 616,385,632,399,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1501.jpg 565,346,615,414,1 563,384,587,401,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/452.jpg 775,348,926,472,0 840,422,884,449,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1816.jpg 728,358,804,421,1 754,394,776,408,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1329.jpg 503,352,610,446,1 530,407,563,429,2 523,390,574,402,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/89.jpg 510,351,592,432,0 527,381,571,394,4 531,398,563,415,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1694.jpg 588,348,633,413,1 588,386,610,400,3 588,374,617,380,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/300.jpg 974,345,1201,559,0 1044,465,1116,510,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1952.jpg 666,357,739,422,1 694,396,719,413,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1249.jpg 518,352,587,416,1 537,390,560,404,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1128.jpg 377,350,533,476,1 433,422,478,452,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/844.jpg 940,347,1115,502,0 974,409,1062,427,4 985,438,1041,472,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1038.jpg 926,352,1046,452,1 972,408,1013,429,2 961,390,1020,402,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/541.jpg 182,349,369,492,0 255,431,307,463,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1722.jpg 79,423,205,558,1 77,478,142,529,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/375.jpg
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/115.jpg 903,352,1079,486,0 971,405,1048,424,4 991,431,1041,461,3 916,425,939,451,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1381.jpg 758,351,880,457,1 810,412,848,436,3 797,393,858,406,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/603.jpg 599,350,672,416,0 626,386,654,402,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1502.jpg 583,384,640,450,1 612,422,637,439,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/155.jpg 697,352,820,445,0 749,389,798,402,4 760,407,793,427,3 711,403,731,426,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/467.jpg 923,354,1136,502,0 984,449,1047,485,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/735.jpg 601,353,646,418,0
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/721.jpg 704,355,749,416,0 708,378,739,388,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1168.jpg 357,351,483,475,1 452,422,481,452,3 373,422,396,450,3 377,398,416,413,4
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/640.jpg 805,348,965,470,0 820,393,873,407,4 821,416,857,440,2 909,420,940,443,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/696.jpg 695,349,787,412,0 741,386,765,400,2 699,384,714,400,2
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1628.jpg 537,351,619,425,1 568,394,595,411,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/1672.jpg 629,352,746,439,1 718,403,742,421,3 652,402,679,420,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/353.jpg 496,373,531,429,0
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/422.jpg 855,348,1048,481,0 902,426,950,457,3 1015,430,1035,460,3
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/893.jpg 817,453,862,504,2 954,462,1017,509,2 788,340,1084,547,0
+/home/lotus/WUST-RM_auto-detect/VOCdevkit/VOC2007/JPEGImages/798.jpg 262,343,831,721,0 435,610,592,721,2
