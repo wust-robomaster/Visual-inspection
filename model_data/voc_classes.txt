@@ -1,0 +1,5 @@
+car_red
+car_blue
+armor1
+armor2
+taill
